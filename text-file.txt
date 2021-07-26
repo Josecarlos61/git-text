@@ -1,3 +1,4 @@
 Primer cambio
 Segundo cambio en txt despues de clonar
 tercera linea
+linea cuatro en file.text
